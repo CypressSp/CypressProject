@@ -1,0 +1,28 @@
+{
+    "uname": "newuser",
+    "pwd": "Password!",
+    "sign_name": "Password!",
+    "date": "15",
+    "month": "April",
+    "year": "1990",
+    "Company_Name": "UltraNew",
+    "AddressInput": "123,Address",
+    "CountryVal": "United States",
+    "StateVal": "Concord",
+    "CityVal": "Colarado",
+    "ZipcodeVal": "12085",
+    "MobileNum": "5061234352",
+    "Invalid_Login_Text": "Your email or password is incorrect!",
+    "LoginCreds": {
+        "ValidCreds":{
+            "validEmail": "validuser@mail.com",
+            "validPwd": "Passw0rd!"
+        },
+        "InvalidCreds":{
+            "invalidEmail": "useedr@mail.com",
+            "invalidPwd": "wrngpswrd"
+        }
+    },
+    "Swag_Uname_Inp": "standard_user",
+    "Swag_Pwd_Inp": "secret_sauce"
+}
